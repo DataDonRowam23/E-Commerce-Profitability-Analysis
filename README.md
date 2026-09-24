@@ -2,7 +2,7 @@
 # E-Commerce Profitability Analysis
 
 <p align="center">
-  <img src="" alt="E-Commerce Logo" width="100"/>
+  <img src="https://github.com/DataDonRowam23/E-Commerce-Profitability-Analysis/blob/main/E-Commerce%20img.jpg" alt="E-Commerce Logo" width="100"/>
 </p>
 
 > Analyzing profitability across product categories, sales channels, return rates, and marketing platforms  for a multi-channel e-commerce operation between 2024 and 2025.
